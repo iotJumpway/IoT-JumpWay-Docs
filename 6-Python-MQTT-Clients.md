@@ -23,3 +23,9 @@ In all cases, whether using devices or applications you first need to install th
 ```
     [root@localhost ~]# pip install techbubbleiotjumpwaymqtt --upgrade
 ```
+
+### IoT JumpWay Developer Python MQTT Clients GitHub Repo
+
+You can find out more information about the Python MQTT Library by visiting the [Official IoT JumpWay Developer Python MQTT Clients Libraries GitHub Repo](https://github.com/TechBubbleTechnologies/IoT-JumpWay-Python-MQTT-Clients "Official IoT JumpWay Developer Python MQTT Clients Libraries GitHub Repo").
+
+
