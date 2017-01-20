@@ -8,15 +8,15 @@ This document will describe the process of registering to the TechBubble Technol
 
 ## Registration Guide
 
-1. Visit the TechBubble Technologies IoT JumpWay Developer Program (BETA) Regsitration Page [TechBubble Technologies IoT JumpWay Developer Program (BETA) Regsitration Page](https://iot.techbubbletechnologies.com/developers/register "here")
+- Visit the TechBubble Technologies IoT JumpWay Developer Program (BETA) Regsitration Page [TechBubble Technologies IoT JumpWay Developer Program (BETA) Regsitration Page](https://iot.techbubbletechnologies.com/developers/register "here")
 
 ![TechBubble IoT JumpWay Registration Docs](images/guides/Registration.png)  
 
-2. Complete and submit the registration form.
+- Complete and submit the registration form.
 
-3. Your password will be sent to the email you used to register to the developer program, follow the link provided in the email and sign in with your new credentials.
+- Your password will be sent to the email you used to register to the developer program, follow the link provided in the email and sign in with your new credentials.
 
-4. Emails sent from our EcoSystem are HTML emails, some email clients may send them directly to your spam folder. If you do not receive your login details within 5 minutes, please check your spam folder and allow emails from our server. 
+- Emails sent from our EcoSystem are HTML emails, some email clients may send them directly to your spam folder. If you do not receive your login details within 5 minutes, please check your spam folder and allow emails from our server. 
 
 ## Forgotten Your Details ? 
 
