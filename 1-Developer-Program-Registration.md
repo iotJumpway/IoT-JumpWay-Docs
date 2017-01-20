@@ -8,9 +8,9 @@ This document will describe the process of registering to the TechBubble Technol
 
 ## Registration Guide
 
-1. Visit the TechBubble Technologies IoT JumpWay Developer Program (BETA) Regsitration Page [TechBubble Technologies IoT JumpWay Developer Program (BETA) Regsitration Page](https://www.google.com "here")
+1. Visit the TechBubble Technologies IoT JumpWay Developer Program (BETA) Regsitration Page [TechBubble Technologies IoT JumpWay Developer Program (BETA) Regsitration Page](https://iot.techbubbletechnologies.com/developers/register "here")
 
-![TechBubble IoT JumpWay Docs](images/main/IoT-Jumpway.jpg)  
+![TechBubble IoT JumpWay Registration Docs](images/guides/Registration.png)  
 
 2. Complete and submit the registration form.
 
