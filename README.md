@@ -12,11 +12,11 @@ This repository provides easy to follow documentation on how to get started with
 
 - [TechBubble Technologies IoT JumpWay Developer Program (BETA) Location Spaces Guide](https://github.com/TechBubbleTechnologies/IoT-JumpWay-Docs/blob/master/2-Location-Spaces.md "IoT JumpWay Developer Program (BETA) Location Spaces Guide")
 
-- [TechBubble Technologies IoT JumpWay Developer Program (BETA) Location Zones Guide](https://github.com/TechBubbleTechnologies/IoT-JumpWay-Docs/blob/master/2-Location-Zones.md "IoT JumpWay Developer Program (BETA) Location Zones Guide")
+- [TechBubble Technologies IoT JumpWay Developer Program (BETA) Location Zones Guide](https://github.com/TechBubbleTechnologies/IoT-JumpWay-Docs/blob/master/3-Location-Zones.md "IoT JumpWay Developer Program (BETA) Location Zones Guide")
 
-- [TechBubble Technologies IoT JumpWay Developer Program (BETA) Location Devices Guide](https://github.com/TechBubbleTechnologies/IoT-JumpWay-Docs/blob/master/2-Location-Devices.md "IoT JumpWay Developer Program (BETA) Location Devices Guide")
+- [TechBubble Technologies IoT JumpWay Developer Program (BETA) Location Devices Guide](https://github.com/TechBubbleTechnologies/IoT-JumpWay-Docs/blob/master/4-Location-Devices.md "IoT JumpWay Developer Program (BETA) Location Devices Guide")
 
-- [TechBubble Technologies IoT JumpWay Developer Program (BETA) Location Applications Guide](https://github.com/TechBubbleTechnologies/IoT-JumpWay-Docs/blob/master/2-Location-Applications.md "IoT JumpWay Developer Program (BETA) Location Applications Guide")
+- [TechBubble Technologies IoT JumpWay Developer Program (BETA) Location Applications Guide](https://github.com/TechBubbleTechnologies/IoT-JumpWay-Docs/blob/master/5-Location-Applications.md "IoT JumpWay Developer Program (BETA) Location Applications Guide")
 
 ## IoT JumpWay Developers GUI Bugs/Issues
 
