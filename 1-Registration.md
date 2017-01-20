@@ -28,5 +28,5 @@ This document will describe the process of registering to the TechBubble Technol
 
 - All emails sent via our EcoSystem are encrypted for your privacy and security.
 
-- You will receive emails from our EcoSystem in the event of successful/unsucessful logins and password requests.
+- You will receive emails from our EcoSystem in the event of successful/unsuccessful logins and password requests.
 
