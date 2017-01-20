@@ -18,6 +18,8 @@ This repository provides easy to follow documentation on how to get started with
 
 - [TechBubble Technologies IoT JumpWay Developer Program (BETA) Location Applications Guide](https://github.com/TechBubbleTechnologies/IoT-JumpWay-Docs/blob/master/5-Location-Applications.md "IoT JumpWay Developer Program (BETA) Location Applications Guide")
 
+- [IoT JumpWay Python MQTT Library](https://github.com/TechBubbleTechnologies/IoT-JumpWay-Docs/blob/master/6-Python-MQTT-Clients.md "IoT JumpWay Python MQTT Library")
+
 ## IoT JumpWay Developers GUI Bugs/Issues
 
 Please feel free to create issues for bugs and general issues you come accross whilst using the IoT JumpWay Developers GUI. You may also use the issues area to ask for general help whilst using the GUI.
