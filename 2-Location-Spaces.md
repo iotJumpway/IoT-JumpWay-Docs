@@ -16,7 +16,10 @@ To create an IoT network, a Location Space is required, each Location Space repr
 
 ![TechBubble IoT JumpWay Registration Docs](images/guides/create-location.jpg)  
 
-2. Once you have landed on the "Creat Location" page, things should be fairly straight forward from here. Follow the instructions on the page and fill out all required fields then click on the "Create Location Space" button. If you have filled out all of the required fields you will be provided with your API Keys for the Applications REST API. At this point you should make a note of these and keep them safe, you will be able to reset these in the future but you will not be able to retrieve the ones issued in this stage of the setup.
+2. Once you have landed on the "Create Location" page, things should be fairly straight forward from here. Follow the instructions on the page and fill out all required fields then click on the "Create Location Space" button. If you have filled out all of the required fields you will be provided with your API Keys for the Applications REST API. At this point you should make a note of these and keep them safe, you will be able to reset these in the future but you will not be able to retrieve the ones issued in this stage of the setup.
 
 ![TechBubble IoT JumpWay Registration Docs](images/guides/create-location-form.jpg)  
 
+## CONGRATULATIONS!!
+
+You have now set up your first IoT JumpWay Location Space, to go through the next stage of setting up your IoT JumpWay Network, check out the Zones guide.
