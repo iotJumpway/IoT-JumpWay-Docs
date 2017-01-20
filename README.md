@@ -26,8 +26,12 @@ This repository provides easy to follow documentation on how to get started with
 
 - [IoT JumpWay Raspberry Pi Examples](https://github.com/TechBubbleTechnologies/IoT-JumpWay-Intel-Examples "IoT JumpWay Raspberry Pi Examples")
 
-- [IoT JumpWay Arduino Examples](https://github.com/TechBubbleTechnologies/IoT-JumpWay-Arduino-Examples "IoT JumpWay Arduino Examples")
+- [IoT JumpWay Arduino/ESP8266 Examples](https://github.com/TechBubbleTechnologies/IoT-JumpWay-Arduino-Examples "IoT JumpWay Arduino/ESP8266 Examples")
 
 ## IoT JumpWay Developers GUI Bugs/Issues
 
 Please feel free to create issues for bugs and general issues you come accross whilst using the IoT JumpWay Developers GUI. You may also use the issues area to ask for general help whilst using the GUI.
+
+## IoT JumpWay Docs Contributors
+
+- [Adam Milton-Barker, TechBubble Technologies Founder](https://github.com/AdamMiltonBarker "Adam Milton-Barker, TechBubble Technologies Founder")
